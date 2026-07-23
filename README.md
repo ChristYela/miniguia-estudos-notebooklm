@@ -250,10 +250,10 @@ Sugira fontes adicionais para complementar o estudo.
 
 ## 👤 Autor
 
-**[Seu Nome]**
+**Cristian Andres Yela**
 - 🎓 Estudante na [DIO](https://www.dio.me/)
-- 💼 [Seu LinkedIn](https://linkedin.com/in/seuperfil)
-- 📧 [seuemail@email.com](mailto:seuemail@email.com)
+- 💼 [Seu LinkedIn](https://linkedin.com/in/christianyela)
+
 
 ---
 
