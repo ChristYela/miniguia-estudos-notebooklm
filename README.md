@@ -252,7 +252,7 @@ Sugira fontes adicionais para complementar o estudo.
 
 **Cristian Andres Yela**
 - 🎓 Estudante na [DIO](https://www.dio.me/)
-- 💼 [Seu LinkedIn](https://linkedin.com/in/christianyela)
+- 💼 [LinkedIn](https://linkedin.com/in/christianyela)
 
 
 ---
